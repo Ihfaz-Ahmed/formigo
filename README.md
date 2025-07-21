@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge)](https://formigo.ihfaz.com/)
 
-A modern, open-source drag-and-drop form builder for React. Build beautiful, accessible forms visually and export clean HTML or JSON—styled with or without Tailwind styling.
+A modern, open-source drag-and-drop form builder built with React. Build beautiful, accessible forms visually and export clean HTML or JSON—styled with or without Tailwind styling.
 
 ## Features
 
