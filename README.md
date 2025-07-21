@@ -1,4 +1,4 @@
-# Formigo
+# Formigo - Form Builder
 
 [![React](https://img.shields.io/badge/React-18-61dafb?logo=react&logoColor=white&style=for-the-badge)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-4.5-646cff?logo=vite&logoColor=white&style=for-the-badge)](https://vitejs.dev/)
@@ -9,6 +9,8 @@
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge)](https://formigo.ihfaz.com/)
 
 A modern, open-source drag-and-drop form builder built with React. Build beautiful, accessible forms visually and export clean HTML or JSON—styled with or without Tailwind styling.
+
+[View Live Demo](https://formigo-six.vercel.app/)
 
 ## Features
 
