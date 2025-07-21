@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Vite cache
+.vite/
+
+# Logs
+npm-debug.log*
+
+# OS files
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
+.vercel
+
+# Vercel
+.vercel/
